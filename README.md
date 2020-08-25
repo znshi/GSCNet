@@ -1,3 +1,3 @@
-# GSCNet 
-  Code for the GSCNet
-## Code for the GSCNet
+# GSCNet
+Code for the GSCNet
+# Overview
