@@ -1,1 +1,2 @@
-# GSCNet b
+# GSCNet 
+## Code for the GSCNet
